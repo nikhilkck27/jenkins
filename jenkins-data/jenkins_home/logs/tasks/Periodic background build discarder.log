@@ -1,16 +1,8 @@
-Started at Wed Jun 02 07:10:02 UTC 2021
+Started at Wed Jun 02 08:54:10 UTC 2021
 Processing parameterised job
 Offering parameterised job to Project Build Discarder
 Processing remote-job
 Offering remote-job to Project Build Discarder
 Processing shell-project
 Offering shell-project to Project Build Discarder
-Finished at Wed Jun 02 07:10:02 UTC 2021. 8ms
-Started at Wed Jun 02 08:10:02 UTC 2021
-Processing parameterised job
-Offering parameterised job to Project Build Discarder
-Processing remote-job
-Offering remote-job to Project Build Discarder
-Processing shell-project
-Offering shell-project to Project Build Discarder
-Finished at Wed Jun 02 08:10:02 UTC 2021. 2ms
+Finished at Wed Jun 02 08:54:10 UTC 2021. 6ms
