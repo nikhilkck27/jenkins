@@ -1,0 +1,8 @@
+Started by user [8mha:////4K81QpuBtznoBmLcMWTfhadWwIs5+yPkvUARm5DX+6dfAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mAdministrator
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/parameterised job
+[parameterised job] $ /bin/sh -xe /tmp/jenkins2612353007620572495.sh
++ =
+/tmp/jenkins2612353007620572495.sh: 2: /tmp/jenkins2612353007620572495.sh: =: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
