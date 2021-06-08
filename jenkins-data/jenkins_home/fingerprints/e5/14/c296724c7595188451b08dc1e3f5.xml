@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-06-03 07:35:04.888 UTC</timestamp>
+  <md5sum>e514c296724c7595188451b08dc1e3f5</md5sum>
+  <fileName>Credential id=GCP_SECRET name=GCP_SECRET</fileName>
+  <usages>
+    <entry>
+      <string>backup-to-GCP</string>
+      <ranges>1-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,22 @@
+Started by user [8mha:////4KProBkqSEsL+MknKarCjCrfSLL0gjCSUgrZWVAsJw6SAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-to-GCP
+[SSH] script:
+DB_PASSWD=**********
+BUCKET_NAME="jenkins-mysql-backup27"
+DB_HOST="db_host"
+GCP_SECRET=**********
+DB_DATABASE="testdb"
+
+/tmp/script.sh $DB_HOST $DB_PASSWD $DB_DATABASE $GCP_SECRET $BUCKET_NAME 
+
+[SSH] executing...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+/tmp/script.sh: line 15: gsutil: command not found
+uploading your data
+
+[SSH] completed
+[SSH] exit-status: 127
+
+Build step 'Execute shell script on remote host using ssh' marked build as failure
+Finished: FAILURE

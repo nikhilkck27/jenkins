@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<com.cloudbees.jenkins.plugins.gcloudsdk.GCloudInstallation_-DescriptorImpl plugin="gcloud-sdk@0.0.3">
+  <installations class="com.cloudbees.jenkins.plugins.gcloudsdk.GCloudInstallation-array"/>
+</com.cloudbees.jenkins.plugins.gcloudsdk.GCloudInstallation_-DescriptorImpl>

@@ -2,7 +2,7 @@
 <hudson.plugins.emailext.ExtendedEmailPublisherDescriptor plugin="email-ext@2.83">
   <mailAccount>
     <smtpPort>25</smtpPort>
-    <smtpPassword>{AQAAABAAAAAQUJYX9wJO4JkfBRx2Yg0KdA9kHl/b5lOnM9rTlrkma9A=}</smtpPassword>
+    <smtpPassword>{AQAAABAAAAAQQg7az5TrWfbrh7kl1qab3i7ZyMXkwYhTF/pTOXaNtxs=}</smtpPassword>
     <useSsl>false</useSsl>
     <useTls>false</useTls>
     <advProperties></advProperties>

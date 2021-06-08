@@ -3,8 +3,12 @@
   <version>1</version>
   <idToDirectoryNameMap class="concurrent-hash-map">
     <entry>
+      <string>nikhil</string>
+      <string>nikhil_6754892350755695301</string>
+    </entry>
+    <entry>
       <string>admin</string>
-      <string>admin_8566031102252818273</string>
+      <string>admin_5206828317692724305</string>
     </entry>
   </idToDirectoryNameMap>
 </hudson.model.UserIdMapper>

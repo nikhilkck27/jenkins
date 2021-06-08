@@ -1,61 +1,163 @@
+gsutil
+yum
+cat /var/jenkins_home/workspace/backup-to-GCP/
+cd /var/jenkins_home/workspace/backup-to-GCP/
 ls
-cat /tmp/userinfo 
-pwd
+cd ..
+ls -la
+cat backup-to-GCP/
+cd backup-to-GCP/
+ls -la
+CLOUDSDK_CONFIG=/tmp /home/margorjon/google-cloud-sdk/bin/gcloud version
 exit
-ssh remote_user@remote-host
-ssh remote_user@jenkinsdata_remote-host
-ssh remote_user@d5a828e59e43
-hostname
-ssh remote_user@remote-host
+whoami
 exit
-ssh remote_user@remote-host
+python -v
+apt
 exit
-ssh remote_user@remote-host
+ansible
 exit
-ssh remote_user@remote-host
-exit
-ssh remote_user@remote-host
+ping remote-host
 ls
-pwd
 cd /home/
 ls
-ll
-ls -la
+ansible -i hosts -m ping test1
+cd /var/jenkins_home/ansible/
+ansible -i hosts -m ping test1
+ls
 exit
-ssh remote_user@remote-host
+cd tmp/
+ls
+exit
+ls /var/jenkins_home/
+ls /var/jenkins_home/ansible/
+exit
+cd $HOME
+ls
+cd ansible/
+ls
+pwd
+cat play.yml 
+exit
+ssh web
+ssh web
+pwd
+ls
+cd tmp/
+ls
+ls
+cd ..
+ls
+exit
+ls
+ls /tmp/
+exit
+ls /tmp/
+cd .
+cd ..
+exit
+ls
+ls /tmp/ansible/
+cat home/
+cat /tmp/ansible/hosts 
+ls
+cd tmp/
+ls
+cd ansible/
+ls
+cat hosts 
+cat hosts 
+vi hosts 
+vi hosts 
+exit
+ssh web
+exit
+cd /var/jenkins_home/
+ls
+cd ansible/
+ls
+cat hosts 
+ls cat hosts 
+cat hosts 
+ansible -i m ping -i hosts web
+ansible -m ping -i hosts web
+ansible -m ping -i hosts test1
+ls
+ls
+ls
+ls
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+cat hosts 
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+cat hosts 
+cat hosts 
+cat hosts 
+cat hosts 
+ansible-playbook -i hosts people.yml 
+ls
+cat play.yml 
+ls
+cat people.yml 
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+cat hosts 
+cat hosts 
+ansible-playbook -i hosts people.yml 
+ansible all -i hosts ping
+ansible all -i hosts ping -m
+ansible -i hosts ping -m
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+ls
+cat people.yml 
+exit
+ls /tmp/
 exit
 cd /var/
 ls
+cd tmp/
+ls
+cd ..
 cd jenkins_home/
 ls
-cd .ssh/
+cd ansible/
 ls
-cat known_hosts 
-vi known_hosts 
-yum -y install vi
-apt -y install vi
-sudo passwd root
-rm -rf known_hosts 
+cat people.yml 
+ansible-playbook -i hosts people.yml 
 ls
-ssh remote_user@remote-host
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml 
+cat hosts 
+vi hosts 
+cat hosts 
+ansible-playbook -i hosts people.yml 
+ls
+cat hosts 
+ansible-playbook -i hosts people.yml 
+ansible-playbook -i hosts people.yml "people_age=25"
+ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25"
+pwd
 exit
-cd /tmp/
-ssh -i remote-key remote_user@remote-host
-ssh -i remote-key remote_user@remote-host
+cat /var/jenkins_home/workspace/maven-job
+cd /var/jenkins_home/workspace/maven-job
+ls
 ls -la
-chmod 777 remote-key 
-chmod 700 remote-key 
-su root
-sudo passwd root
-yum -y install sudo
 ls
-rm -rf remote-key 
-exit
-cd /tmp/
-ssh -i remote-key remote_user@remote-host
-ssh -i remote-key remote_user@remote-host
-exit
-cd /tmp/
-export auth.json 
-gsutil cp /tmp/sql.db1 gs://jenkins-mysql-backup27
+cd target/
+ls
+pwd
+ls
+ls -ll
+ls -la
+ll
+ls
+cd ..
+ls
+cd target/surefire-reports/
+ls
+pwd
+ls
 exit

@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>git-client</artifactId>
-  <version>3.7.1</version>
+  <version>3.7.2</version>
   <packaging>hpi</packaging>
   <name>Jenkins Git client plugin</name>
   <description>Utility plugin for Git support in Jenkins</description>
@@ -45,7 +45,7 @@
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/git-client-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/git-client-plugin.git</developerConnection>
-    <tag>git-client-3.7.1</tag>
+    <tag>git-client-3.7.2</tag>
     <url>https://github.com/jenkinsci/git-client-plugin</url>
   </scm>
   <distributionManagement>
@@ -68,7 +68,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
-      <version>5.11.0.202103091610-r</version>
+      <version>5.11.1.202105131744-r</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -88,7 +88,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit.http.server</artifactId>
-      <version>5.11.0.202103091610-r</version>
+      <version>5.11.1.202105131744-r</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -104,7 +104,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit.http.apache</artifactId>
-      <version>5.11.0.202103091610-r</version>
+      <version>5.11.1.202105131744-r</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -124,7 +124,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit.lfs</artifactId>
-      <version>5.11.0.202103091610-r</version>
+      <version>5.11.1.202105131744-r</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -140,7 +140,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit.ssh.jsch</artifactId>
-      <version>5.11.0.202103091610-r</version>
+      <version>5.11.1.202105131744-r</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -160,13 +160,13 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>structs</artifactId>
-      <version>1.22</version>
+      <version>1.23</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>script-security</artifactId>
-      <version>1.76</version>
+      <version>1.77</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -190,7 +190,7 @@
     <dependency>
       <groupId>com.github.spotbugs</groupId>
       <artifactId>spotbugs-annotations</artifactId>
-      <version>4.2.2</version>
+      <version>4.2.3</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
@@ -203,13 +203,13 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>credentials</artifactId>
-      <version>2.3.15</version>
+      <version>2.4.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.jenkins</groupId>
       <artifactId>configuration-as-code</artifactId>
-      <version>1.47</version>
+      <version>1.51</version>
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
