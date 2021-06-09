@@ -1,0 +1,5 @@
+- name: Testing ansible Play book
+  hosts: test1
+
+  tasks:
+    - shell: echo " Hello world. This is my world" > /tmp/ansible-file
