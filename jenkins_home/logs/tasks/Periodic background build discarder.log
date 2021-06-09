@@ -1,0 +1,14 @@
+Started at Mon Jun 07 10:29:13 UTC 2021
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing backup-to-GCP
+Offering backup-to-GCP to Project Build Discarder
+Processing db-job
+Offering db-job to Project Build Discarder
+Processing first-job
+Offering first-job to Project Build Discarder
+Processing gcloud-script-backup
+Offering gcloud-script-backup to Project Build Discarder
+Processing maven-job
+Offering maven-job to Project Build Discarder
+Finished at Mon Jun 07 10:29:13 UTC 2021. 1ms

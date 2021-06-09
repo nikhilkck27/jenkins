@@ -1,0 +1,7 @@
+Started by user [8mha:////4K81QpuBtznoBmLcMWTfhadWwIs5+yPkvUARm5DX+6dfAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mAdministrator
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/parameterised job
+[parameterised job] $ /bin/sh -xe /tmp/jenkins4379289516783182456.sh
++ echo Hi NIkhil  and whats your 20
+Hi NIkhil  and whats your 20
+Finished: SUCCESS

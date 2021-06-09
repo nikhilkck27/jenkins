@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-06-03 07:35:04.908 UTC</timestamp>
+  <md5sum>49453b9e1f2d4968c77f88b32f0d96ea</md5sum>
+  <fileName>Credential id=MYSQL_PASSWORD name=MYSQL_PASSWORD</fileName>
+  <usages>
+    <entry>
+      <string>backup-to-GCP</string>
+      <ranges>1-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
